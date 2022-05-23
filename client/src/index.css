@@ -1,0 +1,7 @@
+body{
+    background-image: url("./images/pexels-ann-h-1762851.jpg");
+    /* background-image: linear-gradient(to right, rgb(242, 255, 0) , rgb(0, 221, 255)); */
+    background-repeat: no-repeat;
+    /* background-position: center; */
+    background-size: cover;
+}
